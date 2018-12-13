@@ -1,0 +1,21 @@
+{
+ "name": "Rubiks",
+ "version": "0.1.0",
+ "author": "Alvin Charles",
+ "devDependencies": {
+  "@babel/core": "^7.2.0",
+  "@babel/preset-env": "^7.2.0",
+  "babel-minify": "^0.5.0",
+  "grunt": "~0.4.4",
+  "grunt-babel": "^8.0.0",
+  "grunt-contrib-copy": "^1.0.0",
+  "grunt-contrib-cssmin": "^3.0.0",
+  "grunt-contrib-htmlmin": "^3.0.0",
+  "grunt-contrib-jshint": "latest",
+  "grunt-contrib-less": "latest",
+  "grunt-contrib-uglify": "latest",
+  "grunt-contrib-watch": "latest",
+  "jshint-stylish": "latest",
+  "load-grunt-tasks": "^4.0.0"
+ }
+}
